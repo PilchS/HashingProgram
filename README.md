@@ -1,0 +1,1 @@
+This is a console program to use my own hashing in LoginApp project ( https://github.com/PilchS/LoginApp ). It uses ROT13, changing characters to numbers, generating salt. Hashed usernames starts from "#" and passwords from "$". All hashses have the same length. There are diffrences between hashing username and password. 
