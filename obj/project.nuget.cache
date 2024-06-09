@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SVj+20y5gzo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tak12\\Desktop\\studia\\cyberka\\Hashing\\HashingProgram\\HashingProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tak12\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
